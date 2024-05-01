@@ -1,0 +1,2 @@
+This project is based on the YOLOV4 version of target recognition on the KITTI dataset, the code is based on COMPLEX_YOLO and optimized to a high version of the Pytorch library.
+This project code is submitted as a dissertation of the author Oxford Brookes University, Chengdu University of Technology.
